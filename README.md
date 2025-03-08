@@ -1,35 +1,30 @@
-# PolarClient v2.7.3 Crack
-A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock Mining
-
-- Why did you upload this? I dislike the idea of there being paid mods for a block game. That, and mods are fun to crack ;)
+-# Valley Addons
+A mod focused on Hypixel SkyBlock Dungeons QOL
 
 # Features:
 
- - Commission Macro <br>
- - Gemstone Macro <br>
- - Scatha Macro <br>
- - Combat Macro <br>
- - Powder Macro <br>
- - Auto Tunnel Miner <br>
- - Auto Enchanting <br>
- - Auto Harp <br>
- - Fast Place <br>
- - Lobby Hopper <br>
- - ESP/Xray <br>
+ - Better party finder gui <br>
+ - Blood camp helper <br>
+ - Death messages <br>
+ - Partyfinder autokick <br>
+ - Leap menu <br>
+ - SBE blood fix <br>
+ - Shadow assassin teleport alert <br>
+ - M7 class terminal waypoints <br>
+ - EE2/EE3 entry alerts <br>
+ - EE2/EE3/Core Waypoints <br>
+ - i4 Helper <br>
+ - Custom Terminal GUI + solvers <br>
+ - Party commands <br>
+ - Positional Messages and more! <br>
  and more!
 
 
 # How to use:
 
-Download [ChatTriggers](https://chattriggers.com/) for 1.8.9.
-
-Download the latest version
-
-Extract the .7z into the ChatTriggers modules folder.
-
-In game, do /ct reload
-
-To open the menu, do /polar
+Download Forge for 1.8.9 minecraft
+Put the mod into the mods folder
+/va to open the GUI
 
 Enjoy!
 
