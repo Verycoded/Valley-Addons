@@ -22,9 +22,9 @@ A mod focused on Hypixel SkyBlock Dungeons QOL
 
 # How to use:
 
-Download Forge for 1.8.9 minecraft
-Put the mod into the mods folder
-/va to open the GUI
+Download Forge for 1.8.9 minecraft <br>
+Put the mod into the mods folder<br>
+/va to open the GUI<br>
 
 Enjoy!
 
