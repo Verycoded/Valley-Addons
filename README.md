@@ -16,7 +16,8 @@ A mod focused on Hypixel SkyBlock Dungeons QOL (Mostly F7 and M7)
  - i4 Helper <br>
  - Custom Terminal GUI + solvers <br>
  - Party commands <br>
- - Positional Messages and more! <br>
+ - Positional Messages <br>
+ - Wither Boss hitboxes and more!<br>
  and more!
 
 
