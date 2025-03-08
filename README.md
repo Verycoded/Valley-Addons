@@ -1,4 +1,4 @@
--# Valley Addons
+# Valley Addons
 A mod focused on Hypixel SkyBlock Dungeons QOL
 
 # Features:
